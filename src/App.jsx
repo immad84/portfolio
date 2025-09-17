@@ -13,9 +13,9 @@ function App() {
 				<h1>
 					Website Coming Soon
 				</h1>
-				{/*<Timer /> */}
+				{/* <Timer /> */}
 				{/* <Optin /> */}
-				<Preloader />
+				{/* <Preloader /> */}
 			</div>
 		</div>
 	);
