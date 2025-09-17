@@ -11,11 +11,9 @@ function App() {
 		<div className="App">
 			<div className="container">
 				<h1>
-					Website
-					<br />
-					Coming Soon
+					Website Coming Soon
 				</h1>
-				<Timer />
+				{/*<Timer /> */}
 				{/* <Optin /> */}
 				<Preloader />
 			</div>
